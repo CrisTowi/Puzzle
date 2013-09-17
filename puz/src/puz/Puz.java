@@ -18,5 +18,7 @@ public class Puz {
         Panel obj = new Panel();
         obj.setVisible(true);
         obj.setLocationRelativeTo(null);
+		
+		
     }
 }
